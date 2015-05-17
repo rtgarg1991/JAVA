@@ -1,4 +1,4 @@
-package com.rohit.custom.threadpool;
+package in.rohit.custom.threadpool;
 
 /**
  * @author Rohit Garg
